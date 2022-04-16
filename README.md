@@ -17,12 +17,11 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-Connect with me:
-
-<br/>
+## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/somtochukwu-i-b76761a3"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/bryansomto"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/bryansomto/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href='https://wa.me/2348168038695'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
+<a href='mailto:bryansomto@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+<a href='https://www.linkedin.com/in/somtochukwu-i-b76761a3'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
+<a href='https://twitter.com/bryansomto'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
 </p>
