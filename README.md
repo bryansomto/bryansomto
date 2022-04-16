@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**bryansomto/bryansomto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Crypmerce
 - 🌱 I’m currently learning C at Holberton School
 - 👯 I’m looking to collaborate on Web3 projects
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bryansomto@gmail.com
 - 😄 Pronouns: We
 - ⚡ Fun fact: C is mean
--->
+
 ## 📊 My Github Stats
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unique-Red&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
