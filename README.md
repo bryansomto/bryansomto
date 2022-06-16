@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Remy Token
-- 🌱 I’m currently learning C at Holberton School
+- 🌱 I’m currently learning C & Python at Alx School
 - 👯 I’m looking to collaborate on Web3 projects
 - 💬 Ask me about myself
 - 📫 How to reach me: bryansomto@gmail.com
