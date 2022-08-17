@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href='https://wa.me/2348168038695?text=Hello!,%20I%20am'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
-<a href="https://twitter.com/bryansomto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bryansomto" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/somtochukwu-i-b76761a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomide-suara" height="30" width="40" /></a>
 <a href='mailto:bryansomto@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+<a href='https://www.linkedin.com/in/somtochukwu-i-b76761a3'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
+<a href='https://twitter.com/bryansomto'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
