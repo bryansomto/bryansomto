@@ -1,4 +1,5 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+![MasterHead](https://github.com/bryansomto/bryansomto/blob/42ea8a37ef1dff5a7b3503b6d9e200f303d3d5f6/coverImg.png)
+
 <h1 align="center">Hi 👋, I'm Bryan Somtochukwu</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
